@@ -1,2 +1,2 @@
 ## sodium
-sodium
+sodium-chloride
