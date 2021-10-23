@@ -1,1 +1,3 @@
+## _assets
+
 The "assets" folder is where we're keeping assets like images, and CSS files.
